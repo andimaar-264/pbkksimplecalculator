@@ -1,0 +1,7 @@
+D:\PBKK\Tugas 1\Kalkulator\obj\Debug\net7.0-windows\Kalkulator.csproj.AssemblyReference.cache
+D:\PBKK\Tugas 1\Kalkulator\obj\Debug\net7.0-windows\Kalkulator.Form1.resources
+D:\PBKK\Tugas 1\Kalkulator\obj\Debug\net7.0-windows\Kalkulator.csproj.GenerateResource.cache
+D:\PBKK\Tugas 1\Kalkulator\obj\Debug\net7.0-windows\Kalkulator.GeneratedMSBuildEditorConfig.editorconfig
+D:\PBKK\Tugas 1\Kalkulator\obj\Debug\net7.0-windows\Kalkulator.AssemblyInfoInputs.cache
+D:\PBKK\Tugas 1\Kalkulator\obj\Debug\net7.0-windows\Kalkulator.AssemblyInfo.cs
+D:\PBKK\Tugas 1\Kalkulator\obj\Debug\net7.0-windows\Kalkulator.csproj.CoreCompileInputs.cache
